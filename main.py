@@ -1,13 +1,7 @@
 import speedtest
 import time
 
-
-
-
 st = speedtest.Speedtest()
-
-
-
 
 print("-------Internet Speedtest--------")
 time.sleep(1)
